@@ -40,7 +40,7 @@ jQuery(document).ready(function($) {
 			          $('.events').append("<li>after event fired.</li>");
 			        }
   });
-	$(".swipebox").swipebox();
+	// $(".swipebox").swipebox();
    var filterList = {
 	
 		init: function () {
