@@ -127,7 +127,7 @@ nav a:focus {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
-	background-size: cover;
+	background-size:1349px 800px;
 	min-height: 750px;
 }
 .banner1 {
